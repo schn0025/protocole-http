@@ -2,6 +2,7 @@
 ## Schneider Arthur
 ## Il n'y a pas d'instalation essentiels
 
+## 2. Notion d'adresse Web 
 ### 1 Trouvez la syntaxe des URI permettant :
 
 #### 1.1 D'envoyer un mail (mais ne l'envoyez pas !) avec sujet du mail fourni (Ex : mail à jerome.cutrona@univ-reims.fr avec le sujet J'aime le Web)  
@@ -49,3 +50,14 @@ file:///tmp
     /formation/catalogue-de-formation/ but-informatique,23515,38949.html = path
     ?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=17 = query
     #formationDetailDecriptions = fragment
+
+## 3.3.1 Ressource principale 
+### 5.1 Donnez le nom de la ressource principale 
+    La resource principale est /
+
+### 5.2 Donnez la nature de la ressource principale 
+    la ressource principale est une page HTML
+
+### 5.3 Expliquez la présence de la ressource favicon.ico*
+    une page HTML recherche toujours le favicon.ico même ci il n'existe pas
+
