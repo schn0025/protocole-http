@@ -61,3 +61,15 @@ file:///tmp
 ### 5.3 Expliquez la présence de la ressource favicon.ico*
     une page HTML recherche toujours le favicon.ico même ci il n'existe pas
 
+## 3.3.2 Ressources liées 
+### 4.1 « style.css »
+    elle est utiliser est demander par http://cutrona/but/s2/protocole-http/
+
+### 4.2 « correction.js »
+    elle est utiliser est demander par http://cutrona/but/s2/protocole-http/
+
+### 4.3  « URI_syntax_diagram.svg »
+    elle est utiliser est demander par http://cutrona/but/s2/protocole-http/
+
+### 4.4 « timer.png » 
+    elle est utiliser est demander par http://cutrona/css/style.css
