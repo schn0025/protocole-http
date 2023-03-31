@@ -98,3 +98,9 @@ file:///tmp
 
 ### 10 Observez et expliquez les changements dans la requête transmise au serveur
     la ligne des cookie n'est pas présenet car on a desactiver le cache
+
+## 4.2.1
+
+### 4 Observez la requête, trouvez l'en-tête nouveau par rapport aux questions précédentes et expliquez son utilité 
+
+    la ligne referer passe de Referer: http://cutrona/ a Referer: http://demo.ad-urca.univ-reims.fr/request/
