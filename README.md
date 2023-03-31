@@ -80,29 +80,21 @@ file:///tmp
 
     Host: demo.ad-urca.univ-reims.fr = adresse de la ressource
     User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 = info sur l'utilisateur (distribution, moteur de recherche)
-    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-    Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
-    Accept-Encoding: gzip, deflate
-    Referer: http://cutrona/
-    Connection: keep-alive
-    Cookie: _ga=GA1.1.1454122362.1666786956; _ga_FXME7WP04L=GS1.1.1673023630.1.1.1673025872.0.0.0
-    Upgrade-Insecure-Requests: 1
-    Pragma: no-cache
-    Cache-Control: no-cache
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8 = reponse accepter
+    Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3 = langage accepter
+    Accept-Encoding: gzip, deflate = encodage accepter
+    Referer: http://cutrona/ = referance de la page
+    Connection: keep-alive = grader la connection etablie
+    Cookie: _ga=GA1.1.1454122362.1666786956; _ga_FXME7WP04L=GS1.1.1673023630.1.1.1673025872.0.0.0 = info dur l'utilisateur
+    Upgrade-Insecure-Requests: 1 = 
+    Pragma: no-cache = demande du serveur au niveau client
+    Cache-Control: no-cache = controle du cache
 
 ### 4 Observez et expliquez les changements dans la requête transmise au serveur
-
-
-### 5 Actualisez la page avec F5, CTRL+R ou le bouton « actualiser »
+    il n'y a pas de changemenet au niveaux de la requette
 
 ### 6 Observez et expliquez les changements dans la requête transmise au serveur
-
-### 7 Activez l'onglet « Réseau » de la barre de développement
-
-### 8 Cochez la case « Désactiver le cache »
-
-### 9 Actualisez la page avec F5, CTRL+R ou le bouton « actualiser »
+    les lignes Pragma et cookie on disparut
 
 ### 10 Observez et expliquez les changements dans la requête transmise au serveur
-
-### 11 Décochez la case « Désactiver le cache » 
+    la ligne des cookie n'est pas présenet car on a desactiver le cache
